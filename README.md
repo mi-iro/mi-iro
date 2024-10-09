@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Our lab is looking for self-motivated interns, feel free to reach out with your CV!
 -->
+
+Homepage: https://mi-iro.github.io/
+
+Google Scholar: https://scholar.google.com/citations?user=VivZlSoAAAAJ&hl=en
+
+E-Mail: wzr@stu.pku.edu.cn
+
+WeChat: mi-iro
